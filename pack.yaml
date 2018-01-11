@@ -1,0 +1,15 @@
+---
+ref: aws_kinesis-video-media
+name : aws_kinesis-video-media
+description : st2 content pack containing Amazon Web Services integrations.
+keywords:
+  - aws
+  - amazon web services
+  - amazon
+  - kinesis-video-media
+
+version : 2.0.1
+author : StackStorm, Inc.
+email : info@stackstorm.com
+contributors:
+  - Andy Moore <andrew.moore@pearson.com>
